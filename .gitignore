@@ -97,6 +97,10 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+# Local development
+openJdk-25/
+profiles_backup/
+
 # Environments
 .env
 .venv
